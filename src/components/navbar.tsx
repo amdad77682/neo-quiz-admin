@@ -38,7 +38,7 @@ export function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <div className="flex items-center">
           <Link href="/templates" className="text-xl font-bold text-primary">
-            Quiz Maker
+            Neo Quiz
           </Link>
           <nav className="ml-8 hidden space-x-4 md:flex">
             <Link
